@@ -5,35 +5,46 @@
 
 
 <!---about me--->
-## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+## About Me
+I am a student of CSE completing my bachelor's. I am pursuing some open projects in Java or C. Currently, I am practicing my skill in the field to obtain some new experience.
+
+I am happy to collaborate with some enthusiastic developers.
+
+<!---skills--->
+## Skills
+* Java <img src="https://github.com/Riyad959/Riyad959/blob/1100a285b5812fa3048a897d399c52742463af29/Resources/java.svg" alt="riyad" height="30" width="30" />
+* C  <img src="https://github.com/Riyad959/Riyad959/blob/1206298d7ea408c7c0b1e8c2213e2469979c4306/Resources/c.svg" alt="riyad" height="20" width="25" />
+* HTML <img src="https://github.com/Riyad959/Riyad959/blob/1206298d7ea408c7c0b1e8c2213e2469979c4306/Resources/html.svg" alt="riyad" height="25" width="25" />
+
 
 <!---statistics--->
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
-
+## Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Riyad959&theme=ambient-gradient&border_radius=30&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
 
 
 
 <!---contact--->
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Contact me:
-<p>
-<div>
+## Contact me:
+* <p>
+	Mail
+	<a href="mailto:riyadulislam959@gmail.com" target="_blank"><img align="center" src="https://github.com/Riyad959/Riyad959/blob/712cefd16b810b6180fb697cfa84e5e095eca5e7/Resources/icons8-envelope-52-removebg-preview.png" alt="riyad" height="30" width="30" />
+	</a>
+	____Discord
 	<a href="https://discord.com/users/674847774046683157">
 	 	<img alt="Riyad's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
 	</a>
-  |
-	<a href="https://twitter.com/" rel="nofollow">
+	____Twitter
+	<a href="https://twitter.com/riyadul74425190" rel="riyad">
   		<img alt="Riyad's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
 	</a>
-	<a href="https://www.linkedin.com/" rel="nofollow">
+	____Linkedin
+	<a href="https://www.linkedin.com/" rel="riyad">
   		<img alt="Riyad's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 	</a>
-  <a href="https://discord.com/users/674847774046683157" rel="nofollow">
-	 	<img alt="Riyad's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" style="max-width: 100%;">
+	____YouTube
+	<a   <a href="https://www.youtube.com/@riyadsartbook"><img alt="YouTube" title="YouTube" height="30" width="30" src="https://github.com/Riyad959/Riyad959/blob/b6db1cafe5ce11055c4f61cba6a55e4928865cc3/Resources/youtubeFix.svg">
 	</a>
-</div>
 </p>
 
 
