@@ -12,22 +12,18 @@ I am happy to collaborate with some enthusiastic developers.
 
 <!---skills--->
 ## Skills
-* Java <img src="https://github.com/Riyad959/Riyad959/blob/1100a285b5812fa3048a897d399c52742463af29/Resources/java.svg" alt="riyad" height="30" width="30" />
-* C  <img src="https://github.com/Riyad959/Riyad959/blob/1206298d7ea408c7c0b1e8c2213e2469979c4306/Resources/c.svg" alt="riyad" height="20" width="25" />
-* HTML <img src="https://github.com/Riyad959/Riyad959/blob/1206298d7ea408c7c0b1e8c2213e2469979c4306/Resources/html.svg" alt="riyad" height="25" width="25" />
+<img align="left" alt="C" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<i class="devicon-cplusplus-line"><img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></i>
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<br />
 
-
-
+#
 <!---contact--->
 ## Contact me:
-<div>
-	<a href = "mailto:riyadulislam959@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	<a href="https://discord.com/users/674847774046683157" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  	<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  	<a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  	<a href="https://www.youtube.com/@riyadsartbook" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>
-
-
-<!---visitor count--->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=riyad959&label=Profile%20views&color=F28C28&style=flat" alt="riyad959" /> </p>
+[![Mail Badge](https://img.shields.io/badge/riyadulislam959@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=riyadulislam959@gmail.com)](mailto:riyadulislam959@gmail.com)
+<a href="https://discord.com/users/674847774046683157" target="_blank"><img src="https://img.shields.io/badge/riyad__959-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/riyadul-islam-11a18a28a" target="_blank"><img src="https://img.shields.io/badge/-Riyadul Islam-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@riyadsartbook" target="_blank"><img src="https://img.shields.io/badge/@riyadsartbook-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
