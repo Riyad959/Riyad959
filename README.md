@@ -6,7 +6,7 @@
 
 <!---about me--->
 ## About Me
-I am a student of CSE completing my bachelor's. I am pursuing some open projects in Java or C. Currently, I am practicing my skill in the field to obtain some new experience.
+I am a student of CSE completing my bachelor's. I am pursuing some open projects in Java or C. Currently, I am practicing my skills in the field to obtain some new experience.
 
 I am happy to collaborate with some enthusiastic developers.
 
@@ -19,7 +19,7 @@ I am happy to collaborate with some enthusiastic developers.
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
-<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
+<img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" />
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
 <br />
 
