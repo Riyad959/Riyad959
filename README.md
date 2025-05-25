@@ -6,9 +6,9 @@
 
 <!---about me--->
 ## About Me
-I am a student of CSE completing my bachelor's. Currently conducting research in machine learning and AI as a student researcher. Also pursuing some open projects in Java or C. Furthermore practicing my skills in the field to obtain some new experience.
+I am a student of CSE completing my bachelor's. Currently conducting research in machine learning and AI as a student researcher. Also pursuing some open projects in Python, Java or C. Furthermore practicing my skills in the field to obtain some new experience.
 
-I am happy to collaborate with some enthusiastic developers.
+I am happy to collaborate with some enthusiastic researchers or developers.
 
 <!---skills--->
 ## Skills
@@ -28,6 +28,6 @@ I am happy to collaborate with some enthusiastic developers.
 ## Contact me:
 [![Mail Badge](https://img.shields.io/badge/riyadulislam959@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=riyadulislam959@gmail.com)](mailto:riyadulislam959@gmail.com)
 <a href="https://discord.com/users/674847774046683157" target="_blank"><img src="https://img.shields.io/badge/riyad__959-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/riyad959" target="_blank"><img src="https://img.shields.io/badge/-Riyadul Islam-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/riyad959" target="_blank"><img src="https://img.shields.io/badge/-Riyadul Islam LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/@riyadsartbook" target="_blank"><img src="https://img.shields.io/badge/@riyadsartbook-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
