@@ -1,12 +1,12 @@
 <!---upper heading--->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Riyad;I+love+opensource.;I+love+learning.;I+love+gaining+knowledge.;I+love+also+Drawing;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Riyad;I+am+a+student+researcher.;I+love+learning.;I+also+love+Drawing.;Dont+forget+to+spread+love.&center=true&width=500&height=50"></a>
 </p>
 
 
 <!---about me--->
 ## About Me
-I am a student of CSE completing my bachelor's. I am pursuing some open projects in Java or C. Currently, I am practicing my skills in the field to obtain some new experience.
+I am a student of CSE completing my bachelor's. Currently conducting research in machine learning and AI as a student researcher. Also pursuing some open projects in Java or C. Furthermore practicing my skills in the field to obtain some new experience.
 
 I am happy to collaborate with some enthusiastic developers.
 
